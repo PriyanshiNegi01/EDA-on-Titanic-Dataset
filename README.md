@@ -1,5 +1,7 @@
 # EDA-on-Titanic-Dataset
 
+The goal of the analysis is to explain the patterns of survival in the data.
+
 ## Data Dictionary
 
 | Variable   | Definition                       | Key                                       |
