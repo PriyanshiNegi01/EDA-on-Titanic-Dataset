@@ -18,3 +18,9 @@ The goal of the analysis is to explain the patterns of survival in the data.
 | fare       | Passenger fare                   |                                            |
 | cabin      | Cabin number                     |                                            |
 | embarked   | Port of Embarkation              | C = Cherbourg, Q = Queenstown, S = Southampton |
+
+## Tools Used
+
+  1. R programming language
+  2. ggplot2 library for data visualization
+  3. RStudio as IDE
